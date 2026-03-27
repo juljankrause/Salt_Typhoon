@@ -7,6 +7,8 @@ Companion dataset for:
 
 **Krause, Juljan.** "Salt Typhoon and the Limits of 'Quantum Security': A Technique-Level Audit." 
 
+https://doi.org/10.5281/zenodo.19247252
+
 ## Files
 
 - `technique_classifications.csv` — Channel/Device classification for all 42 ATT&CK techniques, 
