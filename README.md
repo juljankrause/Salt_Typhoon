@@ -1,5 +1,5 @@
 # Salt_Typhoon
-Supplementary data for "Salt Typhoon and the Limits of 'Quantum Security': A Technique-Level Audit". Contains Channel/Device classifications and defensive technology mappings for all 42 MITRE ATT&amp;CK techniques documented in Joint Advisory AA25-239A.
+Supplementary data for "Salt Typhoon and the Limits of 'Quantum Security': A Technique-Level Audit". Contains Channel/Device classifications and defensive technology mappings for all 42 MITRE ATT&amp;CK techniques documented in Joint Advisory AA25-239A, and supplementary material (recommendations for controls) 
 
 # Salt Typhoon Technique-Level Audit — Supplementary Data
 
@@ -15,6 +15,7 @@ https://doi.org/10.5281/zenodo.19247252
   including implementation-agnostic and implementation-based codings with rationales.
 - `defensive_class_mappings.csv` — Primary and secondary defensive technology class assignments 
   for each technique, aligned to NIST SP 800-53 and CIS Controls.
+- `SP-2025-12-0322.R1_Krause_Supplementary_Material.pdf' -- PDF containing additional tables and a more detailed version of the Controls section in the main paper
 
 ## Data Source
 
